@@ -1,0 +1,33 @@
+{
+  "updatedAt": "2026-11-15T16:33:00+09:00",
+  "services": [
+    {
+      "name": "Muse",
+      "weeklyRemainingPct": 62,
+      "weeklyReset": "2026-11-16T06:22:00+09:00",
+      "fiveHourRemainingPct": null,
+      "fiveHourReset": null
+    },
+    {
+      "name": "Gemini",
+      "weeklyRemainingPct": 99,
+      "weeklyReset": "2026-11-17T15:01:00+09:00",
+      "fiveHourRemainingPct": 100,
+      "fiveHourReset": "2026-11-15T20:01:00+09:00"
+    },
+    {
+      "name": "ChatGPT",
+      "weeklyRemainingPct": null,
+      "weeklyReset": null,
+      "fiveHourRemainingPct": null,
+      "fiveHourReset": null
+    },
+    {
+      "name": "Claude",
+      "weeklyRemainingPct": 56,
+      "weeklyReset": "2026-11-20T14:00:00+09:00",
+      "fiveHourRemainingPct": 35,
+      "fiveHourReset": "2026-11-15T17:00:00+09:00"
+    }
+  ]
+}
